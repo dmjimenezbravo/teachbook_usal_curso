@@ -8,7 +8,6 @@ This is the course material and a template designed for the teaching staff of th
 ## Content
 In this book you will find:
 
-- [Central Limit Theorem](tlc.md) - A sample chapter on statistics
 - [Introduction to Machine Learning](intro_ml.md) - Basic concepts and subfields
 - Bibliographic information and references
 

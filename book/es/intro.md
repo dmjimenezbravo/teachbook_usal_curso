@@ -7,7 +7,6 @@ Es el material del curso y una plantilla diseñada para que el profesorado de la
 
 ## Contenido
 En este libro encontrarás:
-- [Teorema del Límite Central](tlc.md) - Un capítulo de muestra sobre estadística
 - [Introducción al Machine Learning](intro_ml.md) - Conceptos básicos y subcampos
 - Información bibliográfica y referencias
 

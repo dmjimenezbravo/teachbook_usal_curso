@@ -3,7 +3,6 @@ root: es/intro
 parts:
   - caption: Muestra
     chapters:
-    - file: es/tlc
     - file: es/intro_ml
   - caption: Información
     chapters:
