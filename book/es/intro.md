@@ -1,14 +1,14 @@
 # Introducción
 
-Bienvenido a **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**.
+Bienvenido a **Introducción al Machine Learning**.
 
 ## ¿Qué es esto?
-Es el material del curso y una plantilla diseñada para que el profesorado de las **Facultades de Ciencias y de Ciencias Químicas de la USAL** pueda crear libros docentes interactivos de forma sencilla. La idea principal de esta plantilla es que sea lo suficientemente extensa para cubrir muchos casos de uso y que cada alumno la adapte a su propio curso, pero que a la vez esté lo suficientemente equipada para que se pueda usar de forma sencilla con la ayuda de asistentes de IA (como GitHub Copilot, Gemini, Claude, Codex, etc.) y con un editor de código como VS Code.
+Este libro electrónico interactivo es una guía introductoria sobre el mundo del Machine Learning (Aprendizaje Automático). En sus páginas exploraremos cómo esta tecnología ha revolucionado la forma en que las computadoras resuelven problemas, pasando de la programación basada en reglas estáticas al aprendizaje basado en datos.
 
 ## Contenido
 En este libro encontrarás:
-- [Introducción al Machine Learning](intro_ml.md) - Conceptos básicos y subcampos
-- Información bibliográfica y referencias
+- [Introducción al Machine Learning](intro_ml.md) - Origen, estado actual y subcampos del aprendizaje automático.
+- Información bibliográfica y referencias clásicas en las que se basa el contenido.
 
 ## Versión PDF
 
@@ -18,5 +18,5 @@ También puedes descargar la versión imprimible del libro:
 - [Download PDF in English](../_static/teachbook_en.pdf)
 
 ```{note}
-Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.
+Este documento ha sido elaborado utilizando herramientas de código y asistentes de Inteligencia Artificial para facilitar la docencia y el aprendizaje.
 ```
