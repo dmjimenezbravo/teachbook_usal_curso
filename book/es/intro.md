@@ -7,9 +7,9 @@ Es el material del curso y una plantilla diseñada para que el profesorado de la
 
 ## Contenido
 En este libro encontrarás:
-- [Tutoriales](01_tutorial/01_que_es_un_teachbook.md) para aprender a usar la plantilla
-- [Ejemplos por Grado](02_grados/grado_fisica/intro.md) para ver casos reales
-- Información sobre [cómo citar](92_como_citar.md) y [licencias](91_licencias.md)
+- [Teorema del Límite Central](tlc.md) - Un capítulo de muestra sobre estadística
+- [Introducción al Machine Learning](intro_ml.md) - Conceptos básicos y subcampos
+- Información bibliográfica y referencias
 
 ## Versión PDF
 
