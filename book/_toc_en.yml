@@ -1,7 +1,7 @@
 format: jb-book
 root: en/intro
 parts:
-  - caption: Sample
+  - caption: Machine Learning
     chapters:
     - file: en/intro_ml
   - caption: Information
